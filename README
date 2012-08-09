@@ -6,7 +6,7 @@ Github will always contain the latest version. Try to get that version if possib
 Screenshots: http://imgur.com/a/bPp3m#0 
 
 vim-signature is a plugin to toggle, display and navigate marks.  
-What are marks you say... Read [this](http://vim.wikia.com/wiki/Using_marks)
+What are marks you say... Read this(http://vim.wikia.com/wiki/Using_marks)
   
 Wait a minute...isn't this done not only well but excellently so by vim-showmarks
 and mark-tools; why another plugin you say?  
@@ -133,6 +133,9 @@ double-quotes aren't used. Also, `\m` and `\p` cannot be set to _Space_
   <Plug>SIG_PrevMarkerByType : Jump to prev line having same marker  
   <Plug>SIG_PurgeMarkers     : Remove all markers  
 ````
+
+* `g:SignaturePurgeConfirmation` ( Default: 0 )
+  An option for the more clumsy-fingered. Asks for confirmation before deleting all marks
 
 * `g:SignatureDisableMenu` ( Default: 0 )  
   Hides the menu if set to 1  
