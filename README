@@ -1,12 +1,11 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4118
 
-Repository: https://github.com/kshenoy/vim-signature 
-Github will always contain the latest version. Try to get that version if possible
-
 Screenshots: http://imgur.com/a/bPp3m#0 
 
+Github will always contain the latest version (https://github.com/kshenoy/vim-signature )
+
 vim-signature is a plugin to toggle, display and navigate marks.  
-What are marks you say... Read this(http://vim.wikia.com/wiki/Using_marks)
+What are marks you say... Read this (http://vim.wikia.com/wiki/Using_marks)
   
 Wait a minute...isn't this done not only well but excellently so by vim-showmarks
 and mark-tools; why another plugin you say?  
